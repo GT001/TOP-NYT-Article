@@ -1,6 +1,6 @@
-# The Odin Project
-# PROJECT: POSITIONING AND FLOATING ELEMENTS
-# New York Times Article Clone
+## The Odin Project
+## PROJECT: POSITIONING AND FLOATING ELEMENTS
+## New York Times Article Clone
 
 [View in Browser]()
 
