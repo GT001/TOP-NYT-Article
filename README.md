@@ -2,7 +2,7 @@
 ## PROJECT: POSITIONING AND FLOATING ELEMENTS
 ## New York Times Article Clone
 
-[View in Browser]()
+[View in Browser](https://gt001.github.io/TOP-NYT-Article/)
 
 ## INTRODUCTION
 
