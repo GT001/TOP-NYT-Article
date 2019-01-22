@@ -2,7 +2,10 @@
 ## PROJECT: POSITIONING AND FLOATING ELEMENTS
 ## New York Times Article Clone
 
-[View in Browser](https://gt001.github.io/TOP-NYT-Article/)
+## Objective
+Clone an Article form the New York Times; [click here for the original article](http://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0).
+
+[View Solution in Browser](https://gt001.github.io/TOP-NYT-Article/)
 
 ## INTRODUCTION
 
